@@ -1,0 +1,118 @@
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.exe
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.deps.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.runtimeconfig.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.pdb
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.AssemblyReference.cache
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.AssemblyInfoInputs.cache
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.AssemblyInfo.cs
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.AWSPhotosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AWSPhotosAPI.props
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AWSPhotosAPI.props
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AWSPhotosAPI.props
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\scopedcss\bundle\AWSPhotosAPI.styles.css
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhoto.B4E37523.Up2Date
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\refint\AWSPhotosAPI.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.pdb
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.genruntimeconfig.cache
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\ref\AWSPhotosAPI.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.CloudWatchLogs.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.SQS.dll
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.Migrations.InitialCreate.resources
+C:\Users\ducdt\OneDrive - Kaopiz Software Co., Ltd\Documents\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.GenerateResource.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.exe
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.deps.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.runtimeconfig.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSPhotosAPI.pdb
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.CloudWatchLogs.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\AWSSDK.SQS.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.AssemblyReference.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.AssemblyInfoInputs.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.AssemblyInfo.cs
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.CoreCompileInputs.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.AWSPhotosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AWSPhotosAPI.props
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AWSPhotosAPI.props
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AWSPhotosAPI.props
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\scopedcss\bundle\AWSPhotosAPI.styles.css
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.CopyComplete
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\refint\AWSPhotosAPI.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.pdb
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.genruntimeconfig.cache
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\ref\AWSPhotosAPI.dll
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.Migrations.initial.resources
+C:\Users\ducda\Downloads\AWS\AWSPhotosAPI\AWSPhotosAPI\obj\Debug\net8.0\AWSPhotosAPI.csproj.GenerateResource.cache

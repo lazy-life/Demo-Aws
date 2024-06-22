@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QuZuZM8yhe0kF+yYoz38DIgshH+L2C3P8ieLR/K8cxk=",
+  "Source": "AWSPhotosAPI",
+  "BasePath": "_content/AWSPhotosAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
